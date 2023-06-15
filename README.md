@@ -1,5 +1,16 @@
-# VR-Game-Jam-Template
- Starter Project using Unity XR Toolkit created for VR Jam 2023
+# Magenta Backpack VR Game
+## based on
+## VR-Game-Jam-Template
+### Starter Project using Unity XR Toolkit created for VR Jam 2023
+
+Team Magenta Backpack, also known as Deep Bondi, makes this humble VR game for you to enjoy.
+The team members are
+- Daniel Henderson
+- other brothers Henderson
+- other people?
+
+
+
 
 # Learn More About This Project
 [<img src="https://i.ytimg.com/vi/apnfGuMI0Dc/maxresdefault.jpg" width="50%">](https://youtu.be/apnfGuMI0Dc)
