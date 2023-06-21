@@ -3,10 +3,10 @@
 ## VR-Game-Jam-Template
 ### Starter Project using Unity XR Toolkit created for VR Jam 2023
 
-Team Magenta Backpack, also known as Deep Bondi, makes this humble VR game for you to enjoy.
+Team Magenta Backpack makes this humble VR game for you to enjoy.
 The team members are
 - Daniel Henderson
-- other brothers Henderson
+- other brothers Henderson?
 - other people?
 
 # Installation Instructions
@@ -35,6 +35,22 @@ Click it, and say "yes" to installing it on your Vive XR Elite.
 Exit the file screens by clicking the X in a little circle below the window.
 Look in the "Stuff from Unknown Sources" menu item in the software popdown to find game.apk, and click it.
 
+# External Resources - Game
+## Coding
+The tutorials at https://www.skool.com/vrcreatoracademy 
+The base template is forked from https://github.com/ValemVR/VR-Game-Jam-Template
+Other Valem Youtube tutorials.
+Inspiration for what is possible from https://www.youtube.com/@SebastianLague 
+
+## Models
+
+## Textures
+Procedural shaders tutorial if I use it:
+https://www.youtube.com/watch?v=rj129Wc1vyo&list=PLyoOIELLPjdqcaqNmwh3CN6-vAbsebnOb&index=5&t=282s
+## Sound & Music 
+
+## 
+
 
 
 
@@ -43,7 +59,7 @@ Look in the "Stuff from Unknown Sources" menu item in the software popdown to fi
 
 https://youtu.be/apnfGuMI0Dc
 
-# External Ressources
+# External Ressources - Valem's original VR template
 This project uses a combination of these assets and tutorials :
 
 https://youtu.be/6OT43pvUyfY
